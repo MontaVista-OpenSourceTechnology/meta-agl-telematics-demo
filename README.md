@@ -58,7 +58,7 @@ Specifically out of meta-openembedded these sub-layers are used:
 
 The Raspberry Pi 3 board depends in addition on:
 
-URI: http://git.yoctoproject.org/meta-raspberrypi
+URI: git://git.yoctoproject.org/meta-raspberrypi
 
 
 Packagegroups
